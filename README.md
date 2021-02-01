@@ -1,0 +1,3 @@
+# Speed-MeasurementArduino
+The aim of this experiment is to design and simulate a circuit that will measure the distance between a robot an obstacle, record the difference in time, and display the speed. This will be done through connecting an Arduino Uno to an ultrasonic sensor for measuring the distance. The difference in time can be measured through the function Millis in the Arduino Uno code. Finally, the speed will be calculated in the code of the Arduino using the basic formula (speed = distance / time) and displayed on an LCD screen that is connected to the Arduino. The simulation will take place on Tinker CAD.
+Check the report for full details and the code file for the arduino code!
